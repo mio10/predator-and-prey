@@ -14,3 +14,4 @@ Simulation &amp; visualization of predator and prey behaviour written in [Proces
 ```console
 $ processing-java --sketch=path/to/battle --run
 ```
+**Note:** `path/to/battle` is a path to the directory containing `battle.pde`.
