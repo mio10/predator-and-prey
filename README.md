@@ -12,5 +12,5 @@ Simulation &amp; visualization of predator and prey behaviour written in [Proces
 ### Windows
 *(may work on Linux too but wasn't tested)*
 ```console
-$ processing-java --sketch=<path_to_predator-and-prey_directory> --run
+$ processing-java --sketch=path/to/battle --run
 ```
