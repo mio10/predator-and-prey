@@ -9,6 +9,8 @@ Simulation &amp; visualization of predator and prey behaviour written in [Proces
 [Processing](https://processing.org) is required to run the program.
 
 ## Quick start
-1. Launch the Processing IDE.
-2. Open `battle.pde`.
-3. Run the app.
+### Windows
+*(may work on Linux too but wasn't tested)*
+```console
+$ processing-java --sketch=<path_to_predator-and-prey_directory> --run
+```
