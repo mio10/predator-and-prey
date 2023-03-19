@@ -1,9 +1,9 @@
 # Predator and Prey
 
+![](preview.gif)
+
 ## Description
 Simulation &amp; visualization of predator and prey behaviour written in [Processing](https://processing.org).
-
-![](thumbnail.png)
 
 ## Requirements
 [Processing](https://processing.org) is required to run the program.
